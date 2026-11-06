@@ -8,9 +8,9 @@
     "test": "node src/index.js"
   },
   "dependencies": {
-    "@discordjs/voice": "^0.17.0",
+    "@discordjs/voice": "^0.14.0",
     "chalk": "^4.1.2",
-    "discord.js": "^14.15.3",
+    "discord.js": "^13.17.1",
     "dotenv": "^16.4.5",
     "kazagumo": "^3.1.0",
     "kazagumo-spotify": "^1.2.0",
