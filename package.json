@@ -11,6 +11,10 @@
     "@discordjs/voice": "^0.17.0",
     "chalk": "^4.1.2",
     "discord.js": "^14.15.3",
-    "dotenv": "^16.4.5"
+    "dotenv": "^16.4.5",
+    "kazagumo": "^3.1.0",
+    "kazagumo-spotify": "^2.1.2",
+    "mongoose": "^8.4.1",
+    "shoukaku": "^4.1.0"
   }
 }
